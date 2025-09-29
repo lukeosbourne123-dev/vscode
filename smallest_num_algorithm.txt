@@ -1,0 +1,14 @@
+My example
+1- read x, y, 7
+2- if x<y and x<7 then print x else put back x
+3- if y<x and y<7 then print y else put  back y
+4- if 7<x and 7<y then print 7 else put back 
+
+
+
+1- read x,y,z
+2- if x<y
+    y=x
+3- if z<y
+    y=z
+4- print y
