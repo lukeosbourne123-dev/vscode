@@ -27,4 +27,4 @@ print(young)
 #there is a convention for python names of variables 
 birth_day = "june14" 
 #the building block for programming is statements - eg. assigment statement, if, for etc.
-#Python is a high level language (more modern that is human friendly); low level(older language designed for more specific tasks and uses the computers binary code)
+
