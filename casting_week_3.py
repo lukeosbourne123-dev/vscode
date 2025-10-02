@@ -26,7 +26,7 @@ num_as_text = "43"
 num_as_num = int(num_as_text) #converting string (text) to num
 
 print(num_as_text) #will print as text
-print(num_as_num) # will it print?
+print(num_as_num) # will it print? No
 print(str(num_as_num)) # equivalent
 
 num = 3
@@ -40,12 +40,12 @@ print("Your age is ",2025 - int (year_of_birth))
 '''
 
 
-# print function - working with a separator
+# print function - working with a separator 
 
 print("Hello","world", sep=',', end=' ')
 print("Hello","world", sep=' ')
 print("Hello\tworld") # \t tab
-print("Hello\nworld") # \n sends to the a line
+print("Hello\nworld") # \n sends to a new line
 print('What is the student\'s name?')
 print('Use this symbol \\ to make an escape character') # "\\" to prints a "\" refer to powerpoint slide
 
