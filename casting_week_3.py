@@ -77,3 +77,6 @@ x /= 2 # x = x/2
 print(x)
 x **= 4 # x = x ** 4
 print(x)
+
+
+#Explicit casing and Implicit casting - REVIEW   
