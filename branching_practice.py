@@ -5,8 +5,10 @@ of_legal_age = age >= 14
 if of_legal_age:
     print("You are", age,"years old. You are allowed to drive")
 else:
-    print("You are too young to drive")
-'''
+    print("You are too young to drive" ("\n"))
+
+
+
 
 print("welcome to the Leap Year notifier")
 
@@ -16,7 +18,7 @@ leap_year = year/4
 
 if leap_year: 
     print (year , "is a leap year")
-
+'''
 
 
 
