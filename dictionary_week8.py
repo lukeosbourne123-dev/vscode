@@ -1,0 +1,1 @@
+student_data = {"Sam":3.4, "John":3.2} #the pair of key values can be of any type
