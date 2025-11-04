@@ -51,5 +51,22 @@ m = my_max(l,n)
 print(m)
 '''
 
+#input (arguments) - output (return) function
 
 
+def square(x):
+    y = x**2
+    return y
+print(square(5))
+
+
+#input (arguments) - no output
+
+x = print("hello")
+print(x)
+
+#no input (no argument), but you have a return (output)
+
+print("Please provide your name")
+name = input()
+print("Hello", name)
